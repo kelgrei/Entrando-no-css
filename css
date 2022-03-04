@@ -1,0 +1,40 @@
+p {
+ margin: 5%; 
+ background-color: Blue;
+ color: White;
+ text-align: center;
+}
+
+.text {
+  color: blue;
+  background-color: #3c86e1;
+  padding: 10px;
+}
+
+.mainTitle {
+  text-align: center;
+}
+
+#unavailable > a { 
+  color: pink;
+  
+}
+
+#tittlePrograms {
+  font-size: 20px;
+  color: #1c3869;
+}
+
+.knowMore {
+  margin: 7px;
+  padding: 10px;
+  border-style: dotted;
+  border-color: #3c86e1;
+}
+
+.content {
+  width: 75%;
+  max-width: 450px;
+  text-align: center;
+
+}
